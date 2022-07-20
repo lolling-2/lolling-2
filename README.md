@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">💞️ I’m would love to collaborate on ML projects !</h3>
 <!-- <h4> Checkout My coding profile and the code used !</h4> -->
-<a href='https://leetcode.com/lollinng/'>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<!-- <a href="https://github.com/lollinng/Competitive">code<a> -->
-#### Connect with me on - 
+
+#### DSA Profile links
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/lollinng) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathamesh-jadhav-105728138/) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
+[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](lollinng.github.io/Prathamesh/)
+
+
+#### Connect with me on - 
+
+
 
 ###### Frameworks and Stack I have worked with
 ![Flask](https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask)
