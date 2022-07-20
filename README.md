@@ -2,7 +2,7 @@
 <h3 align="center">💞️ I’m would love to collaborate on ML projects !</h3>
 <!-- <h4> Checkout My coding profile and the code used !</h4> -->
 
-#### DSA Profile links
+#### Profile links
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/lollinng) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathamesh-jadhav-105728138/) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
