@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Prathamesh
-- 🌱 I’m currently learning Transformers
-- 💞️ I’m looking to collaborate on ML projects 
-- 📫 How to reach me ping on my twitter
+<h1 align="center">Hi 👋, I'm Prathamesh</h1>
+<h3 align="center">💞️ I’m looking to collaborate on ML projects !</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lollinng&label=Profile%20views&color=0e75b6&style=flat" alt="Prathamesh" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbaid3" alt="pratikbaid3" /> </p> 
 
 #### Connect with me on - 
