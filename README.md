@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">💞️ I’m would love to collaborate on ML projects !</h3>
-
-<a href=''>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-
+<!-- <h4> Checkout My coding profile and the code used !</h4> -->
+<a href='https://leetcode.com/lollinng/'>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<!-- <a href="https://github.com/lollinng/Competitive">code<a> -->
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathamesh-jadhav-105728138/) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
