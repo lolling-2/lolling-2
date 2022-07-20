@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">💞️ I’m looking to collaborate on ML projects !</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lollinng&label=Profile%20views&color=0e75b6&style=flat" alt="Prathamesh" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbaid3" alt="pratikbaid3" /> </p> 
-
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathamesh-jadhav-105728138/) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
